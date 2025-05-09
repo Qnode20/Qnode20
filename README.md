@@ -3,9 +3,6 @@ Hi 👋 My name is Kent
 
 Web + Mobile Developer and designer.
 ------------------------------------
-
-* 🌍  I'm based in Sarawak
-
 ### Skills
 
 <p align="left">
